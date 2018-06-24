@@ -1,6 +1,4 @@
 C:\Users\tommu\Documents\GitHub\AllianzInterviewPrep\InsuranceApi\InsuranceApi\bin\Debug\netcoreapp2.0\InsuranceApi.deps.json
-C:\Users\tommu\Documents\GitHub\AllianzInterviewPrep\InsuranceApi\InsuranceApi\bin\Debug\netcoreapp2.0\InsuranceApi.runtimeconfig.json
-C:\Users\tommu\Documents\GitHub\AllianzInterviewPrep\InsuranceApi\InsuranceApi\bin\Debug\netcoreapp2.0\InsuranceApi.runtimeconfig.dev.json
 C:\Users\tommu\Documents\GitHub\AllianzInterviewPrep\InsuranceApi\InsuranceApi\bin\Debug\netcoreapp2.0\InsuranceApi.dll
 C:\Users\tommu\Documents\GitHub\AllianzInterviewPrep\InsuranceApi\InsuranceApi\bin\Debug\netcoreapp2.0\InsuranceApi.pdb
 C:\Users\tommu\Documents\GitHub\AllianzInterviewPrep\InsuranceApi\InsuranceApi\obj\Debug\netcoreapp2.0\InsuranceApi.csprojAssemblyReference.cache
